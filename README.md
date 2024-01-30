@@ -2,7 +2,7 @@
 - 👀 I’m interested in
 - 🌱 I’m currently learning DSA in C++.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m currently FrontEnd usgin REACT JS. 
+- 💞️ I’m currently learning FrontEnd usgin REACT JS. 
 - 📫
 
 <!---
